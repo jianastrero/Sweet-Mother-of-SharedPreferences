@@ -2,6 +2,7 @@
 The Sweetest way into saving and loading to sharedpreferences
 
 [![](https://jitpack.io/v/jianastrero/Sweet-Mother-of-SharedPreferences.svg)](https://jitpack.io/#jianastrero/Sweet-Mother-of-SharedPreferences)
+[![API](https://img.shields.io/badge/API-1%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=1)
 
 
 ##Installation
